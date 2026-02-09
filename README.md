@@ -18,12 +18,23 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 ### Mobile View
 
-| Homepage Layout | Interactive Morphing Menu |
-| :--- | :--- |
-| <img src="https://github.com/user-attachments/assets/d547bd64-32e4-4919-a669-e518958d08c2" width="100%" alt="Mobile Home View" /> | <img src="https://github.com/user-attachments/assets/b3be443b-09b6-482e-b512-11ad2f913a0e" width="100%" alt="Mobile Menu View" /> |
+<table width="100%">
+  <tr>
+    <th width="50%">Homepage Layout</th>
+    <th width="50%">Interactive Morphing Menu</th>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/d547bd64-32e4-4919-a669-e518958d08c2" width="100%" alt="Mobile Home View" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/b3be443b-09b6-482e-b512-11ad2f913a0e" width="100%" alt="Mobile Menu View" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>Screenshots showing the responsive design and the custom morphing navigation.</i>
+  <i>Both views are aligned to the top for better comparison of the responsive UI.</i>
 </p>
 
 ---
