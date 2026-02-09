@@ -33,10 +33,6 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
   </tr>
 </table>
 
-<p align="center">
-  <i>Both views are aligned to the top for better comparison of the responsive UI.</i>
-</p>
-
 ---
 
 ## ✨ Features & Requirements
