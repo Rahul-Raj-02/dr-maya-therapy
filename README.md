@@ -20,8 +20,8 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 <table width="100%">
   <tr>
-    <th width="50%">Homepage Layout</th>
     <th width="50%">Interactive Morphing Menu</th>
+    <th width="50%">Homepage Layout</th>
   </tr>
   <tr>
     <td valign="top" width="50%">
