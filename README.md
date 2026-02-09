@@ -3,8 +3,8 @@
 A premium, responsive, and modern therapy website built with **Next.js 16** and **Tailwind CSS v4**. This project demonstrates high-fidelity UI reproduction, creative design additions, and advanced responsive layouts.
 
 ## 🚀 Live Demo
-> **Live Link:** https://dr-maya-therapy-psi.vercel.app/
-**Video Walkthrough:** [Paste your Loom Video Link Here]
+> * **Live Link:** https://dr-maya-therapy-psi.vercel.app/
+> * **Video Walkthrough:** [Paste your Loom Video Link Here]
 ---
 
 ## 📸 Screenshots
