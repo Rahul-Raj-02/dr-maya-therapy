@@ -18,9 +18,13 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 
 ### Mobile View
-<img width="373" height="793" alt="Screenshot 2026-02-09 132239" src="https://github.com/user-attachments/assets/d547bd64-32e4-4919-a669-e518958d08c2" />
 <p align="center">
- <img width="373" height="" alt="dr-maya-therapy-psi vercel app_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/b3be443b-09b6-482e-b512-11ad2f913a0e" />
+  <img src="https://github.com/user-attachments/assets/d547bd64-32e4-4919-a669-e518958d08c2" width="45%" alt="Mobile Home View" />
+  <img src="https://github.com/user-attachments/assets/b3be443b-09b6-482e-b512-11ad2f913a0e" width="45%" alt="Mobile Menu View" />
+</p>
+
+<p align="center">
+  <i>Left: Homepage Layout | Right: Interactive Morphing Menu</i>
 </p>
 
 ---
