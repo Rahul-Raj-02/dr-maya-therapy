@@ -4,12 +4,7 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 ## 🚀 Live Demo
 > **Live Link:** https://dr-maya-therapy-psi.vercel.app/
-
----
-
-## 📺 Project Walkthrough (Loom Video)
-[![Watch the video](https://img.shields.io/badge/Watch-Loom_Video-blueviolet?style=for-the-badge&logo=loom)](YOUR_LOOM_LINK_HERE)
-
+> **Video Walkthrough:** [Paste your Loom Video Link Here]
 ---
 
 ## 📸 Screenshots
