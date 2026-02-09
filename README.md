@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 Dr. Maya Reynolds - Therapy Website 
 
-## Getting Started
+A premium, responsive, and modern therapy website built with **Next.js 16** and **Tailwind CSS v4**. This project demonstrates high-fidelity UI reproduction, creative design additions, and advanced responsive layouts.
 
-First, run the development server:
+## 🚀 Live Demo
+> **Live Link:** [Paste your Vercel URL here after deployment]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📺 Project Walkthrough (Loom Video)
+[![Watch the video](https://img.shields.io/badge/Watch-Loom_Video-blueviolet?style=for-the-badge&logo=loom)](YOUR_LOOM_LINK_HERE)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
+### Desktop View
+![Homepage Desktop](https://via.placeholder.com/800x450?text=Desktop+Screenshot+Placeholder)
 
-## Learn More
+### Mobile Morphing Menu
+<p align="center">
+  <img src="https://via.placeholder.com/300x600?text=Mobile+Menu+Placeholder" width="300" />
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features & Requirements
+This project fulfills the following assignment criteria:
+* **Homepage Reproduction**: Accurately replicated the "Lilac" therapy template layout.
+* **Creative Layouts**: Replaced placeholders with professional therapy-themed imagery using circular and arch-shaped masks.
+* **Unique Section**: Added the **"Our Santa Monica Sanctuary"** (Office Section) to showcase spatial layout skills.
+* **Advanced Navigation**: 
+    * **Desktop**: Glassmorphism (frosted glass) blurred navbar.
+    * **Mobile**: A minimalist "Morphing" full-screen menu with **Lucide React** icons.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
+* **Framework**: Next.js 16 (App Router)
+* **Styling**: Tailwind CSS v4
+* **Icons**: Lucide React
+* **Deployment**: Vercel
 
-## Deploy on Vercel
+## 📐 Design Philosophy
+* **Z-Pattern Layout**: Alternating image and text positions to guide the user's eye naturally.
+* **Typography**: Used elegant Serifs for headings and clean Sans-serif for body text.
+* **Color Palette**: 
+    * Primary Green: `#2D3E30` (Trust & Growth)
+    * Warm Cream: `#FDFCFB` (Comfort & Calm)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚧 Future Improvements (Roadmap)
+- [ ] Add a functional "Book Appointment" form.
+- [ ] Integrate a Headless CMS for the Blog section.
+- [ ] Add dark mode support using Tailwind's dark selector.
+- [ ] Implement Framer Motion for scroll-reveal animations.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🏗️ Local Setup
+1. Clone the repo: `git clone [repo-url]`
+2. Install: `npm install`
+3. Start: `npm run dev`
+
+---
+Developed with ❤️ by **Rahul Raj** 🚀
