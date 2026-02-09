@@ -3,7 +3,7 @@
 A premium, responsive, and modern therapy website built with **Next.js 16** and **Tailwind CSS v4**. This project demonstrates high-fidelity UI reproduction, creative design additions, and advanced responsive layouts.
 
 ## 🚀 Live Demo
-> **Live Link:** [Paste your Vercel URL here after deployment]
+> **Live Link:** https://dr-maya-therapy-psi.vercel.app/
 
 ---
 
@@ -14,11 +14,14 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 ## 📸 Screenshots
 ### Desktop View
-![Homepage Desktop](https://via.placeholder.com/800x450?text=Desktop+Screenshot+Placeholder)
+<img width="1903" height="3469" alt="dr-maya-therapy-psi vercel app_" src="https://github.com/user-attachments/assets/532201bf-7400-47ab-a4bd-b6bb6244cfc0" />
+
 
 ### Mobile Morphing Menu
 <p align="center">
-  <img src="https://via.placeholder.com/300x600?text=Mobile+Menu+Placeholder" width="300" />
+ <img width="1170" height="16384" alt="dr-maya-therapy-psi vercel app_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/b3be443b-09b6-482e-b512-11ad2f913a0e" />
+ <img width="373" height="793" alt="Screenshot 2026-02-09 132239" src="https://github.com/user-attachments/assets/d547bd64-32e4-4919-a669-e518958d08c2" />
+
 </p>
 
 ---
@@ -55,6 +58,12 @@ This project fulfills the following assignment criteria:
 1. Clone the repo: `git clone [repo-url]`
 2. Install: `npm install`
 3. Start: `npm run dev`
+
+## 🧠 Technical Highlights
+- **Framework Optimization**: Used Next.js 16 App Router for faster page transitions and SEO.
+- **State Management**: Implemented `useState` for handling complex mobile navigation states.
+- **Lucide Icons**: Integrated `lucide-react` for a lightweight and consistent iconography system.
+- **Glassmorphism**: Applied custom Tailwind utilities for backdrop-blur effects on the header.
 
 ---
 Developed with ❤️ by **Rahul Raj** 🚀
