@@ -8,7 +8,7 @@ A premium, responsive, and modern therapy website built with **Next.js 16** and 
 
 ## 📺 Project Walkthrough
 You can watch the detailed video demonstration of this project here:
-[Watch Video Demo on Loom]https://www.loom.com/share/547ba40cfa6740c7962e843db723a904
+[![Watch the video](https://img.shields.io/badge/Watch-Video_Demo-red?style=for-the-badge&logo=loom)]https://www.loom.com/share/547ba40cfa6740c7962e843db723a904
 ---
 
 ## 📸 Screenshots
